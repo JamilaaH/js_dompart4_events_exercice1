@@ -7,4 +7,4 @@ let changement = () => {
 }
 
 
-titre.addEventListener('click', changement())
+titre.addEventListener('click', changement)
